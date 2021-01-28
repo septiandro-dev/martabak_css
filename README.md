@@ -5,4 +5,8 @@ https://raw.githubusercontent.com/septiandro-dev/martabak_css/main/css/martabak.
 
 ## Untuk link html bisa copy text dibawah:
 
-### <link rel="stylesheet" href="https://raw.githubusercontent.com/septiandro-dev/martabak_css/main/css/martabak.css">
+```html
+<pre>
+<h4><link rel="stylesheet" href="https://raw.githubusercontent.com/septiandro-dev/martabak_css/main/css/martabak.css"></h4>
+</pre>
+```
